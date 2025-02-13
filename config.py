@@ -5,7 +5,7 @@ BOT_TOKEN = "7510192674:AAGG3VDjcN7cgJhhhxHXtu1_il_mkbP4eRU"  # bot token
 
 
 # REDIS
-HOST = "https://redis-19646.c278.us-east-1-4.ec2.redns.redis-cloud.com"  # redis host uri
+HOST = "redis-19646.c278.us-east-1-4.ec2.redns.redis-cloud.com"  # redis host uri
 PORT = 19646  # redis port
 PASSWORD = "WrXIxdcQFeXBnaI9WIt3rurNeTgMKZ69"  # redis password
 
